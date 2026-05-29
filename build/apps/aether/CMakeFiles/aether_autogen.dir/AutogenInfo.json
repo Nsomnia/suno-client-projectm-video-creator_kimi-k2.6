@@ -1,0 +1,126 @@
+{
+	"BUILD_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/aether_autogen",
+	"CMAKE_BINARY_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether",
+	"CMAKE_EXECUTABLE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/scripts/cmake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/CMakeLists.txt",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Targets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtFeature.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtFeatureCommon.cmake",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/scripts/cmake/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/scripts/cmake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Dependencies.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/scripts/cmake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Quick/Qt6QuickAdditionalTargetInfo.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Quick/Qt6QuickVersionlessTargets.cmake",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/aether_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "aether_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/aether_autogen/include",
+	"MOC_COMPILATION_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/aether_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"SPDLOG_COMPILED_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/core/include",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/rendering/include",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/audio/include",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/network/include",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/ui/include",
+		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
+		"/usr/include/x86_64-linux-gnu/qt6",
+		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/_deps/json-src/include",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/_deps/toml11-src",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/_deps/spdlog-src/include",
+		"/usr/include/x86_64-linux-gnu/qt6/QtQuick",
+		"/usr/include/x86_64-linux-gnu/qt6/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt6/QtQml",
+		"/usr/include/x86_64-linux-gnu/qt6/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt6/QtQmlModels",
+		"/usr/include/x86_64-linux-gnu/qt6/QtOpenGL",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++23",
+		"-dM",
+		"-E",
+		"-c",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/scripts/cmake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/aether_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/CMakeFiles/aether_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 2,
+	"SETTINGS_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/CMakeFiles/aether_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/src/main.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

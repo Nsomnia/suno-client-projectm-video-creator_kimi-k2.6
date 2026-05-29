@@ -28,5 +28,16 @@ Window {
                 NumberAnimation { to: 1.0; duration: 1200; easing.type: Easing.InOutQuad }
             }
         }
+
+        Text {
+            anchors.right: parent.right
+            anchors.bottom: parent.bottom
+            anchors.margins: 12
+            text: Version.commit + " | v" + Version.version
+            color: "#888899"
+            font.pixelSize: 11
+            font.family: "Courier"
+            opacity: 0.7
+        }
     }
 }

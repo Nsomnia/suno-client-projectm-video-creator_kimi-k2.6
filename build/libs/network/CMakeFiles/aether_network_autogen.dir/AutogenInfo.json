@@ -1,0 +1,71 @@
+{
+	"BUILD_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network/aether_network_autogen",
+	"CMAKE_BINARY_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/network",
+	"CMAKE_EXECUTABLE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/scripts/cmake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/network/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network/aether_network_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "aether_network_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network/aether_network_autogen/include",
+	"MOC_COMPILATION_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network/aether_network_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/network/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++23",
+		"-dM",
+		"-E",
+		"-c",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/scripts/cmake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network/aether_network_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network/CMakeFiles/aether_network_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 2,
+	"SETTINGS_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/libs/network/CMakeFiles/aether_network_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/libs/network/src/dummy.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

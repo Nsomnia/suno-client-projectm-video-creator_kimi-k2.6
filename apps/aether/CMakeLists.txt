@@ -1,6 +1,8 @@
-find_package(Qt6 REQUIRED COMPONENTS Quick Quick3D ShaderTools)
+find_package(Qt6 REQUIRED COMPONENTS Quick)
 
 qt_add_executable(aether)
+
+set_source_files_properties(qml/qml.qrc PROPERTIES QT_RESOURCE_PREFIX "/")
 
 target_sources(aether PRIVATE
     src/main.cpp
@@ -14,7 +16,6 @@ target_link_libraries(aether PRIVATE
     aether::network
     aether::ui
     Qt6::Quick
-    Qt6::Quick3D
 )
 
 set_target_properties(aether PROPERTIES
