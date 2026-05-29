@@ -9,7 +9,17 @@
 	"INCLUDE_DIR" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/aether_autogen/include",
 	"INPUTS" : 
 	[
-		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/main.qml"
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/main.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/themes/qmldir",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/themes/Theme.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/pages/SunoPage.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/pages/SettingsPage.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/pages/LibraryPage.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/pages/VisualizerPage.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/components/NavButton.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/components/GlassPanel.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/components/NeonButton.qml",
+		"/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/apps/aether/qml/qml/components/AnimatedBackground.qml"
 	],
 	"LOCK_FILE" : "/workspace/0aa6e209-2905-4611-bbd9-67b943f662a7/sessions/agent_fec0cf9f-a307-4cf8-ab2c-92fb10650614/build/apps/aether/CMakeFiles/aether_autogen.dir/AutoRcc_qml_CCBC4FUR7J_Lock.lock",
 	"MULTI_CONFIG" : false,

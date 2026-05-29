@@ -103,7 +103,7 @@
 	"MOC_PREDEFS_CMD" : 
 	[
 		"/usr/bin/c++",
-		"-std=gnu++23",
+		"-std=c++23",
 		"-dM",
 		"-E",
 		"-c",

@@ -1,5 +1,15 @@
 <RCC>
     <qresource prefix="/">
         <file>qml/main.qml</file>
+        <file>qml/themes/Theme.qml</file>
+        <file>qml/themes/qmldir</file>
+        <file>qml/components/AnimatedBackground.qml</file>
+        <file>qml/components/GlassPanel.qml</file>
+        <file>qml/components/NeonButton.qml</file>
+        <file>qml/components/NavButton.qml</file>
+        <file>qml/pages/VisualizerPage.qml</file>
+        <file>qml/pages/LibraryPage.qml</file>
+        <file>qml/pages/SunoPage.qml</file>
+        <file>qml/pages/SettingsPage.qml</file>
     </qresource>
 </RCC>

@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
     ctx->initialize();
 
     QQmlApplicationEngine engine;
+    engine.addImportPath(QStringLiteral("qrc:/qml"));
     engine.rootContext()->setContextProperty("AppContext", ctx);
     engine.rootContext()->setContextProperty("Config", ctx->config());
     engine.rootContext()->setContextProperty("EventBus", ctx->eventBus());
