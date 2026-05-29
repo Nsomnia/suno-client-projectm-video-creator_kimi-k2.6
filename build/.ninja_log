@@ -1,0 +1,13 @@
+# ninja log v5
+1	14	1780079972985727955	libs/network/CMakeFiles/aether_network.dir/src/dummy.cpp.o	bdc135202fcea72f
+1	17	1780079972985727955	libs/ui/CMakeFiles/aether_ui.dir/src/dummy.cpp.o	933e9787f53aebf7
+0	21	1780079972989727955	libs/audio/CMakeFiles/aether_audio.dir/src/dummy.cpp.o	2c1ccea7d636d14d
+0	21	1780079972985727955	libs/core/CMakeFiles/aether_core.dir/src/dummy.cpp.o	7af3b83d8b2e1f33
+0	23	1780079972989727955	libs/rendering/CMakeFiles/aether_rendering.dir/src/dummy.cpp.o	6485ca08badf6e3a
+17	25	1780079972993727955	libs/ui/libaether_ui.a	c5182ef7c512b27
+14	27	1780079972997727955	libs/network/libaether_network.a	604e4082eff1e6b9
+21	32	1780079973001727955	libs/audio/libaether_audio.a	58a34f7c441d717a
+21	33	1780079973001727955	libs/core/libaether_core.a	fb369d6f4dba1a46
+23	34	1780079973005727955	libs/rendering/libaether_rendering.a	96aff613d7a84dff
+1	1432	1780079995593728188	apps/aether/CMakeFiles/aether.dir/src/main.cpp.o	97a84382a12e6b8c
+1433	1673	1780079995829728191	apps/aether/aether	cd6100d6611c4a7e
