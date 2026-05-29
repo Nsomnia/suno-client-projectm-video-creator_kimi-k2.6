@@ -1,4 +1,5 @@
 import QtQuick 2.15
+import Aether.Rendering 1.0
 import "../themes"
 import "../components"
 
@@ -42,11 +43,10 @@ Item {
         height: parent.height * 0.5
         glowColor: Theme.accentPurple
 
-        Text {
-            anchors.centerIn: parent
-            text: "Visualizer Canvas"
-            font: Theme.fontHeader
-            color: Theme.textSecondary
+        VisualizerItem {
+            anchors.fill: parent
+            anchors.margins: 8
+            intensity: 1.0
         }
     }
 

@@ -2,15 +2,19 @@
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QVariantMap>
+#include <qqml.h>
 #include <aether/core/ApplicationContext.h>
 #include <aether/core/Logger.h>
 #include <aether/core/VersionInfo.h>
 #include <aether/core/ConfigManager.h>
 #include <aether/core/EventBus.h>
+#include <aether/rendering/VisualizerItem.h>
 
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
+
+    qmlRegisterType<aether::ui::VisualizerItem>("Aether.Rendering", 1, 0, "VisualizerItem");
 
     auto* ctx = aether::core::ApplicationContext::instance();
     ctx->initialize();
